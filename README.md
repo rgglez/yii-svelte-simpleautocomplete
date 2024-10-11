@@ -37,6 +37,7 @@ Notice that the SimpleAutocomplete component documentation says that you can use
 
 ## License
 
-MIT License. Please read the [LICENSE](LICENSE) file.
-
 Copyright (c) 2024 Rodolfo González González.
+
+[MIT](https://opensource.org/licenses/MIT) License. Please read the [LICENSE](LICENSE) file.
+
