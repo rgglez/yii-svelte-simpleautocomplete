@@ -3,6 +3,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 ![GitHub issues](https://img.shields.io/github/issues/rgglez/yii-svelte-simpleautocomplete) 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/rgglez/yii-svelte-simpleautocomplete)
+![GitHub stars](https://img.shields.io/github/stars/rgglez/yii-svelte-simpleautocomplete?style=social)
+![GitHub forks](https://img.shields.io/github/forks/rgglez/yii-svelte-simpleautocomplete?style=social)
 
 Extension for integrating the [SimpleAutocomplete](https://github.com/pstanoev/simple-svelte-autocomplete) Svelte component into a [Yii 1.1](https://www.yiiframework.com/) view.
 
